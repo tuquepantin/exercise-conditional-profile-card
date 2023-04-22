@@ -44,7 +44,7 @@ function render(variables = {}) {
             <li><a href="https://github.com/${
               variables.github == null ? "4geeksacademy" : variables.github
             }"><i class="fab fa-github"></i></a></li>
-            <li><a href="https://linkedin.com/${
+            <li><a href="https://linkedin.com/in/${
               variables.linkedin == null ? "4geeksacademy" : variables.linkedin
             }"><i class="fab fa-linkedin"></i></a></li>
             <li><a href="https://instagram.com/${
